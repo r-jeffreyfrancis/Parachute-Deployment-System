@@ -124,7 +124,7 @@ void loop() {
         deltaTime = now() - initTime;
       }
       
-      //We 
+      //Main deployment system 
       #ifdef mainSystem
           if (altMax < curAlt)
           {
